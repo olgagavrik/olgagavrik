@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Olga Gavrik
 - 👀 I’m interested in Data Science/Data Analysis
 - 🌱 I’m currently learning Data Science
+
+
+Check out my portfolio ➡️ https://olgagavrik.github.io
   
 ## My Tools 
 <div>
@@ -28,32 +31,22 @@
   
 ### 
 
-| Git | Docker |
-|----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Git.PNG" title="Git" alt="Git" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Docker.PNG" title="Docker" alt="Docker" width="50" height="50"/>|
+| Git | Docker |GitHub|
+|----------|----------|----------|
+|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Git.PNG" title="Git" alt="Git" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Docker.PNG" title="Docker" alt="Docker" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/GitHub.PNG" title="GitHub" alt="GitHub" width="50" height="50"/>|
 
 
 ### 
 
 | Linux | Ubuntu |
 |----------|----------|
-| 
+|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Linux.PNG" title="Linux" alt="Linux" width="50" height="50"/> 
 
 
 ### 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluence" alt="Confluence" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="30" height="30"/>
-
+  <img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/VB_Oracle.PNG" title="VB_Oracle" alt="VB_Oracle" width="40" width="30" height="30"/>
+  <img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/VS_Code.PNG" title="VS_Code" alt="VS_Code" width="30" height="30"/>
+  
 </div>
 
 ---
