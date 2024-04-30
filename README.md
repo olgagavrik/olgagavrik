@@ -15,15 +15,15 @@ Check out my portfolio ➡️ https://olgagavrik.github.io
   
 ### 
 
-| PyCharm | NumPy | Pandas|Conda| Excel |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PyCharm.PNG" title="PyCharm"  alt="PyCharm" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/NumPy.PNG" title="NumPy" alt="NumPy" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Pandas.PNG" title="Pandas" alt="Pandas" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Anaconda.PNG" title="Conda" alt="Conda" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Excel.PNG" title="Excel" alt="Excel" width="50" height="50"/>|
+| PyCharm | NumPy | Pandas|Conda|Jupyter | Excel |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PyCharm.PNG" title="PyCharm"  alt="PyCharm" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/NumPy.PNG" title="NumPy" alt="NumPy" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Pandas.PNG" title="Pandas" alt="Pandas" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Anaconda.PNG" title="Conda" alt="Conda" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Jupyter%20Notebook.PNG" title="JupyterNB" alt="JupyterNB" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Excel.PNG" title="Excel" alt="Excel" width="50" height="50"/>|
 
 
 
 ### 
 
-| Oracle | MySQL |PostgreSQL|MongoDB| DBeaver |
+| Oracle | MySQL |Postgre|MongoDB| DBeaver |
 |----------|----------|----------|----------|----------|
 |<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/OracleDB.PNG" title="OracleDB"  alt="OracleDB" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/MySQL.PNG" title="MySQL" alt="MySQL" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PostgreSQL.PNG" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/MongoDB.PNG" title="MongoDB" alt="MongoDB" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/DBeaver.PNG" title="DBeaver" alt="DBeaver" width="50" height="50"/>|
 
