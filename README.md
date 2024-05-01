@@ -8,44 +8,42 @@ Check out my portfolio ➡️ https://olgagavrik.github.io
 ## My Tools 
 <div>
 
-| Python3|SQL |
-|----------|----------|
-|  <img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Python.PNG" title="Python"  alt="Python" width="50" height="50"/> | <img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/SQL.PNG" title="SQL"  alt="SQL" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/
-
+#### Programming and Data Manipulation Libraries
+| Python3|R |Pandas|NumPy|
+|----------|----------|----------|----------|
+|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Python.PNG" title="Python"  alt="Python" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/R.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Pandas.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/NumPy.PNG"/>|
   
-### 
+#### Data Visualization Tools
 
-| PyCharm | NumPy | Pandas|Conda|Jupyter | Excel |
+| Tableau| PowerBI | 
+|----------|----------|
+|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Tableau.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PowerBI.PNG"/>|
+
+#### Data Storage & Big Data Technologies
+
+|SQL | Oracle | MySQL |Postgre|MongoDB| DBeaver |
 |----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PyCharm.PNG" title="PyCharm"  alt="PyCharm" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/NumPy.PNG" title="NumPy" alt="NumPy" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Pandas.PNG" title="Pandas" alt="Pandas" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Anaconda.PNG" title="Conda" alt="Conda" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Jupyter%20Notebook.PNG" title="JupyterNB" alt="JupyterNB" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Excel.PNG" title="Excel" alt="Excel" width="50" height="50"/>|
-
-
-
-### 
-
-| Oracle | MySQL |Postgre|MongoDB| DBeaver |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/OracleDB.PNG" title="OracleDB"  alt="OracleDB" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/MySQL.PNG" title="MySQL" alt="MySQL" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PostgreSQL.PNG" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/MongoDB.PNG" title="MongoDB" alt="MongoDB" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/DBeaver.PNG" title="DBeaver" alt="DBeaver" width="50" height="50"/>|
-
-
+|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/SQL.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/OracleDB.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/MySQL.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PostgreSQL.PNG" title="PostgreSQL"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/MongoDB.PNG" title="MongoDB" alt="MongoDB" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/DBeaver.PNG"/>|
   
-### 
+#### Development & Version Control Tools
 
-| Git | Docker |GitHub|
-|----------|----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Git.PNG" title="Git" alt="Git" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Docker.PNG" title="Docker" alt="Docker" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/GitHub.PNG" title="GitHub" alt="GitHub" width="50" height="50"/>|
+|Git |GitHub|JupyterNB|Docker |Kubernetes| VS_Code |PyCharm|RStudio|
+|----------|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Git.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/GitHub.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Jupyter Notebook.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Docker.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Kubernetes.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/VS_Code.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PyCharm.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/R.PNG"/>
 
 
-### 
+#### Statistical & Analytical Software
 
-| Linux | Ubuntu |
+|Excel|RapidMiner|
 |----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Linux.PNG" title="Linux" alt="Linux" width="50" height="50"/> 
+|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Excel.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Rapidminer.PNG"/>
 
 
-### 
-  <img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/VB_Oracle.PNG" title="VB_Oracle" alt="VB_Oracle" width="40" width="30" height="30"/>
-  <img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/VS_Code.PNG" title="VS_Code" alt="VS_Code" width="30" height="30"/>
+##### Additional Tools and Technologies 
+
+|Linux|MS Azure| VB Oracle|Bash|
+|----------|----------|----------|----------|
+  |<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Linux.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Azure.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/VB_Oracle.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Bash.PNG"/>
   
 </div>
 
