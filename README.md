@@ -27,9 +27,9 @@ Check out my portfolio ➡️ https://olgagavrik.github.io
   
 #### Development & Version Control Tools
 
-|Git |GitHub|JupyterNB|Docker |Kubernetes| VS_Code |PyCharm|RStudio|
-|----------|----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Git.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/GitHub.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Jupyter Notebook.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Docker.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Kubernetes.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/VS_Code.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PyCharm.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/R.PNG"/>
+|Git |GitHub|JupyterNB|Docker |Kubernetes| VS_Code |PyCharm|
+|----------|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Git.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/GitHub.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Jupyter Notebook.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Docker.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Kubernetes.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/VS_Code.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PyCharm.PNG"/>
 
 
 #### Statistical & Analytical Software
