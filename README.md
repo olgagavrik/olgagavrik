@@ -48,7 +48,15 @@ Check out my portfolio ➡️ https://olgagavrik.github.io
 </div>
 
 ---
+<br>
+<h3> Visitors counter </h3>
+<p>
+  <a href="https://github.com/ParthGohil21/github-profile-count">
+    <img align="center" src="https://profile-counter.glitch.me/{olgagavrik}/count.svg" />
+    </a>
+</p>
 
+</details>
   
 <p align="center">
 
