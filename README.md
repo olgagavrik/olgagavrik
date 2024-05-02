@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 
 
-Check out my portfolio ➡️ https://olgagavrik.github.io
+Check out my portfolio ➡️ https://www.amobridge.com/
   
 ## My Tools 
 <div>
