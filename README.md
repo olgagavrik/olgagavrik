@@ -21,7 +21,7 @@ Check out my portfolio ➡️ https://www.amobridge.com/
 
 #### Data Storage & Big Data Technologies
 
-|SQL | Oracle | MySQL |Postgre|MongoDB| DBeaver |Azure DS|SSMS|
+|SQL | Oracle | MySQL |Postgre|MongoDB| DBeaver |AzureDS|SSMS|
 |----------|----------|----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/SQL.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/OracleDB.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/MySQL.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PostgreSQL.PNG" title="PostgreSQL"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/MongoDB.PNG" title="MongoDB" alt="MongoDB" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/DBeaver.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/AzureDS.PNG" title="AzureDS" alt="AzureDS" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/SSMS.PNG" title="SSMS" alt="SSMS" width="50" height="50"/>|
   
