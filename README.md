@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Olga Gavrik
 - 👀 I’m interested in Data Science/Data Analysis
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning  'Data Analysis for Life Sciences' and 'Data Analysis for Genomics.'
+
+Recent Work
 
 
-Check out my portfolio ➡️ https://www.amobridge.com/
+Check out my portfolio ➡️ https://olgagavrik.github.io
   
 ## My Tools 
 <div>
