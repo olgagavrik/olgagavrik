@@ -13,39 +13,32 @@ Check out my portfolio ➡️ https://olgagavrik.github.io
 #### Programming and Data Manipulation Libraries
 | Python3|R |Pandas|NumPy|
 |----------|----------|----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Python.PNG" title="Python"  alt="Python" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/R.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Pandas.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/NumPy.PNG"/>|
+|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" title="Python"  alt="Python" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/r.svg" title="R" alt="R" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pandas.svg" title="Pandas" alt="Pandas" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/numpy.svg" title="NumPy" alt="NumPy" width="50" height="50"/>|
   
 #### Data Visualization Tools
 
 | Tableau| PowerBI | 
 |----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Tableau.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PowerBI.PNG"/>|
+|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tableau.svg" title="Tableau" alt="Tableau" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg" title="PowerBI" alt="PowerBI" width="50" height="50"/>|
 
 #### Data Storage & Big Data Technologies
 
 |SQL | Oracle | MySQL |Postgre|DBeaver |AzureDS|SSMS|
 |----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/SQL.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/OracleDB.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/MySQL.PNG"/>| <img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PostgreSQL.PNG" title="PostgreSQL"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/DBeaver.PNG"/>| <img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/AzureDS.png" title="AzureDS" alt="AzureDS" width="50" height="50"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/SSMS.png" title="SSMS" alt="SSMS" width="50" height="50"/>|
+|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" title="SQL" alt="SQL" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/oracle.svg" title="Oracle" alt="Oracle" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mysql.svg" title="MySQL" alt="MySQL" width="50" height="50"/>| <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbeaver.svg" title="DBeaver" alt="DBeaver" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftazure.svg" title="AzureDS" alt="AzureDS" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftsqlserver.svg" title="SSMS" alt="SSMS" width="50" height="50"/>|
   
 #### Development & Version Control Tools
 
 |Git |GitHub|JupyterNB|Docker |Kubernetes| VS_Code |PyCharm|
 |----------|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Git.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/GitHub.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Jupyter Notebook.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Docker.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Kubernetes.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/VS_Code.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/PyCharm.PNG"/>
-
-
-#### Statistical & Analytical Software
-
-|Excel|RapidMiner|
-|----------|----------|
-|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Excel.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Rapidminer.PNG"/>
+|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/git.svg" title="Git" alt="Git" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" title="GitHub" alt="GitHub" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jupyter.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" title="Docker" alt="Docker" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" title="VS Code" alt="VS Code" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pycharm.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>|
 
 
 ##### Additional Tools and Technologies 
 
 |Linux|MS Azure| VB Oracle|Bash|
 |----------|----------|----------|----------|
-  |<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Linux.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Azure.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/VB_Oracle.PNG"/>|<img src="https://github.com/olgagavrik/olgagavrik.github.io/blob/main/images/home/Bash.PNG"/>
+|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linux.svg" title="Linux" alt="Linux" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftazure.svg" title="MS Azure" alt="MS Azure" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/oracle.svg" title="VB Oracle" alt="VB Oracle" width="50" height="50"/>|<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gnubash.svg" title="Bash" alt="Bash" width="50" height="50"/>|
   
 </div>
 
