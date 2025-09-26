@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olga Gavrik
-- 👀 I’m interested in Data Science/Data Analysis
+- 👀 I’m passionate about everything related to data, artificial intelligence and Python.
 
 Recent Work
 
